@@ -1,4 +1,4 @@
-Numix Plymouth
+Bedrock Linux Plymouth
 ==============
 
-A Numix theme for Plymouth
+A Bedrock Linux theme for Plymouth

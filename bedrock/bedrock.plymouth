@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bedrock
+Description=bedrock
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bedrock
+ScriptFile=/usr/share/plymouth/themes/bedrock/bedrock.script
